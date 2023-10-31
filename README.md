@@ -1,4 +1,4 @@
-###👋 Hello, I'm Gabriel
+###👋 Hello, I'm Gabriel ###
 
 📊 Currently, I'm collaborating with a dynamic data team, dedicated to enhancing and democratizing data utilization within our organization. 🚀
 
@@ -19,6 +19,7 @@
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 #Hosting/SaaS/Cloud
+
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GBarbosa1)](https://github.com/anuraghazra/github-readme-stats)
