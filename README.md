@@ -1,4 +1,4 @@
-###👋 Hello, I'm Gabriel ###
+###👋 Hello, I'm Gabriel
 
 📊 Currently, I'm collaborating with a dynamic data team, dedicated to enhancing and democratizing data utilization within our organization. 🚀
 
