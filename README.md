@@ -21,5 +21,3 @@
 ## Hosting/SaaS/Cloud
 
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) <img src="https://img.shields.io/badge/snowflake-%2356B9EB.svg?&style=for-the-badge&logo=snowflake&logoColor=black" />
-
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GBarbosa1)](https://github.com/anuraghazra/github-readme-stats)
